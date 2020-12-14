@@ -1,0 +1,16 @@
+{
+  "name": "semantic-versions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "semantic-versions.js",
+  "scripts": {
+    "dev": "node semantic-versions",
+    "test": "mocha **/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}

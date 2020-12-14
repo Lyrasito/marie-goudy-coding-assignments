@@ -1,0 +1,16 @@
+{
+  "name": "spiral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spiral.js",
+  "scripts": {
+    "dev": "node spiral",
+    "test": "mocha **/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
